@@ -10,6 +10,7 @@ service:
   framework: 
   description: "This is a test"
   aliases:
+    - duper-super-snifflez
   tags: 
   repositories: 
   tools: 
