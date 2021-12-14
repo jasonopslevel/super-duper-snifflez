@@ -3,12 +3,12 @@ version: 1
 service:
   name: super-duper-snifflez
   lifecycle: 
-  tier: 
+  tier: tier_1
   product: 
   owner: 
   language: 
   framework: 
-  description: 
+  description: "This is a test"
   aliases:
   - umbrellaa
   tags: 
